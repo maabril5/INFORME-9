@@ -26,6 +26,8 @@ Haber entendido los conceptos presentados en el capítulo 17 y 18 referente a ci
 
 ![image](https://user-images.githubusercontent.com/117920423/221698874-74ae1964-4a8e-4f54-bb92-cf96c577dbec.png)
 
+![image](https://user-images.githubusercontent.com/117920423/221698953-08a56964-10be-4a82-add2-13668e201fd6.png)
+
 3. EJERCICIOS DE APRENDIZAJE.
 
 CAPÍTULO 17.
@@ -251,6 +253,8 @@ SECCIÓN 18–4 Filtros Rechazabanda
 6. BIBLIOGRAFÍA.
 
 - Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearson Eduación.
+
+- Resonancia en un circuito RLC serie - Electrónica Unicrom. (2020, febrero 24). Electrónica Unicrom. https://unicrom.com/resonancia-en-un-circuito-rlc-serie/
 
 
 
