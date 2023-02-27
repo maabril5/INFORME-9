@@ -207,7 +207,41 @@ SECCIÓN 18–3 Filtros pasabanda
 
 ![image](https://user-images.githubusercontent.com/117920423/221483576-df6b3ddc-729a-4db7-af9e-2dcd5d28b162.png)
 
+![image](https://user-images.githubusercontent.com/117920423/221483711-36b81645-25de-4336-b14e-3f6b9541cddd.png)
 
+![image](https://user-images.githubusercontent.com/117920423/221483743-d7aee001-f3e0-40be-9d9b-81b75b816f62.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221483776-befecdfc-169f-47b4-92ca-0df48fabded5.png)
+
+SECCIÓN 18–4 Filtros Rechazabanda
+
+![image](https://user-images.githubusercontent.com/117920423/221483831-6c142f2b-0f12-443e-a786-e592e6fadca9.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221483871-0558f456-83ea-471f-a418-fff925be1fe6.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221483901-23dd7097-c47a-427b-af8c-a75cbe5d7f24.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221483945-6a83c4a4-0cf1-4cdc-bf3c-e70bd9894ef1.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221483961-f2fb80e2-1f17-4a04-88ef-0fdc912fc7c7.png)
+
+4.CONCLUSIONES.
+
+Se estudió el procedimeinto para realizar el análisis de un circuito RL con dos conjuntos de componentes en paralelo
+
+La impedancia y admitancia fueron temas muy importantes para tener en conocimiento la resolución de ejercicios.
+
+Para el mejor entendimiento de lo planteado fue importante el uso y aplicaciones de los números complejos, al igual que sus operaciones.
+
+- En el video presentado pudimos desarrollar conocimientos de los aprendido con nuevos temas a exponer y ejercicios.
+
+5. VIDEO.
+
+
+
+6. BIBLIOGRAFÍA.
+
+- Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearson Eduación.
 
 
 
