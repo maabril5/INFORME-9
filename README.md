@@ -43,6 +43,24 @@ SECCIÓN 17–2 Análisis de circuitos RLC en serie
 
 ![image](https://user-images.githubusercontent.com/117920423/221475036-95f96257-1736-454a-8f65-a2f4de1ff787.png)
 
+SECCIÓN 17–3 Resonancia en serie
+
+![image](https://user-images.githubusercontent.com/117920423/221475425-4314e28b-77fe-445f-8c49-6371d21a8964.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221474298-d7afdc35-116d-4bae-ab1a-14ff1b49f362.png)
+
+XC < XL fr, es menor que la frecuencia indicada.
+
+![image](https://user-images.githubusercontent.com/117920423/221476211-71cf8e37-96c0-4ab6-97ed-1963f93d19e0.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221476351-a5c1e397-acea-462c-a118-01d7d8eb2548.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221476420-5777982e-0f4d-49f5-8c30-48520344e04b.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221476471-956ea1be-65f1-48ce-ac39-fc5747464547.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221476585-fb1684a1-ed01-459c-8338-a4438de8ac4d.png)
+
 
 
 
