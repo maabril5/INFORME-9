@@ -123,6 +123,34 @@ SECCIÓN 17–7 ANÁLISIS DE CIRCUITOS RLC EN SERIE-PARALELO
 
 ![image](https://user-images.githubusercontent.com/117920423/221480685-18eb5414-8a0f-4a3c-8777-456b5db13eb8.png)
 
+![image](https://user-images.githubusercontent.com/117920423/221481391-f366d866-a502-4c95-9bb4-efbfec725e4e.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221481458-ef8fbaed-9035-479e-9c15-a4ee5b5ae387.png)
+
+No lo habrá, ya que el circuito presente se encuentra abierto.
+
+![image](https://user-images.githubusercontent.com/117920423/221481692-3127263b-50db-4ff4-8f6c-951698176f88.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221481713-9b8e7bea-8947-4217-8f0e-0120c925e74a.png)
+
+Hay dos frecuencias resonantes en el circuito, ya que se necesita calcular la freciencia resonante paralela y en serie.
+
+![image](https://user-images.githubusercontent.com/117920423/221481893-752bec15-7cd7-4f69-b20c-8144b15c1e13.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221481942-71301381-01d1-4b07-aa60-8d69e0a2a3ad.png)
+
+SECCIÓN 17–8 Ancho de banda de circuitos resonantes
+
+![image](https://user-images.githubusercontent.com/117920423/221481999-d9e124eb-557b-4014-8c41-3d7d68afeb7d.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221482055-269f8f81-3e14-4d02-aa2b-c3fc5f73fcaf.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221482100-d192923e-a86b-4af9-a559-3a5342728d1b.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221482135-46047ae1-ee83-472f-aeac-ae8878bac3b9.png)
+
+CAPÍTULO 18.
+
 
 
 
