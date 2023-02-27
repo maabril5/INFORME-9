@@ -16,6 +16,15 @@ Haber entendido los conceptos presentados en el capítulo 17 y 18 referente a ci
 
 2. MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/117920423/221698659-2fad689c-ef00-4c4e-81ee-096f9e007a8d.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221698709-604f4c87-d06b-42e3-aad6-858caca59aed.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221698764-3ad224fe-4e47-4209-95a5-2eaaaeab7a55.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221698817-8ed55cb0-82a6-4de1-95d6-1c7473b6da04.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221698874-74ae1964-4a8e-4f54-bb92-cf96c577dbec.png)
 
 3. EJERCICIOS DE APRENDIZAJE.
 
