@@ -2,17 +2,17 @@
 
 1. OBJETIVOS:
 
-Estudiar y comprender el comportamiento de los circuitos RC y RL,
+- Analizar los circuitos RCL, los tipos de resonancias y frecuencias
 
-Identificar la relación que existe entre las corrientes y los voltajes de un circuito RC.
+- Estudiar el significado de decibeles, para entender su relación con los diferentes tipos de filtros pasivos.
 
-Conocer como analizar dos conjuntos de componentes en paralelo de un circuito RL.
+- Determinar el comportamiento de la impedancia en un circuito en serie, para realizar el análisis correcto del mismo
 
 - Mediante un video establecer el tema expuesto y adquirir un mejor entendimiento.
 
 1.1 OBJETIVO ESPECÍFICO:
 
-Haber entendido los conceptos presentados en el capítulo 15 y 16 referente a circuitos RL y RC, conociendo sus usos y sus aplicaciones al momento de la resolución de ejercicios o análisis de los mismos.
+Haber entendido los conceptos presentados en el capítulo 17 y 18 referente a circuitos RLC y filtros pasivos, para así poder desarrollar ejercicios y amplificar con profundidad sus características y aplicaciones.
 
 2. MARCO TEÓRICO
 
@@ -227,11 +227,11 @@ SECCIÓN 18–4 Filtros Rechazabanda
 
 4.CONCLUSIONES.
 
-Se estudió el procedimeinto para realizar el análisis de un circuito RL con dos conjuntos de componentes en paralelo
+- Se estudió el procedimeinto para realizar el análisis de un circuito RCL, ayudandome de ejercicios.
 
-La impedancia y admitancia fueron temas muy importantes para tener en conocimiento la resolución de ejercicios.
+- Los circuitos RCL tienen una aplicación bastante interesante para la comprensión de un circuito, hablando en sentido de filtros abstractamente.
 
-Para el mejor entendimiento de lo planteado fue importante el uso y aplicaciones de los números complejos, al igual que sus operaciones.
+- El término decibeles se puede concluir que este es una unidad que se deriva de la respuesta logarítmica que el oído humano presenta a la intensidad de sonido
 
 - En el video presentado pudimos desarrollar conocimientos de los aprendido con nuevos temas a exponer y ejercicios.
 
