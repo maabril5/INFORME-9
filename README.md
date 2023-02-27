@@ -151,6 +151,62 @@ SECCIÓN 17–8 Ancho de banda de circuitos resonantes
 
 CAPÍTULO 18.
 
+SECCIÓN 18–1 Filtros pasabajas
+
+![image](https://user-images.githubusercontent.com/117920423/221482387-4cb42594-7280-4a28-8729-c0930e5ec997.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221482452-3e422afc-1fc3-438e-bd6e-2d415606c1d8.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221482489-e5b7ccca-297e-4c4b-bd51-3669def8f5a4.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221482551-86e7b0ff-5028-423d-970b-287d3e27cdff.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221482601-3a340144-860c-4bee-80dc-280a3911757f.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221482634-b1a404a9-410a-4369-b07e-c56c50b96bf3.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221482663-8caed808-6224-4f7b-8769-13fe23f0b2f3.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221482700-2dbef6d4-d5cc-4674-a3cb-e0019ea62118.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221482725-30e5e836-4a18-4a1e-8fc6-29862ec33ad6.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221482740-bd8da4b4-ecfa-4cb9-bfce-0e6da41a07a7.png)
+
+SECCIÓN 18–2 Filtros pasaaltas
+
+![image](https://user-images.githubusercontent.com/117920423/221482849-09a33477-7e25-4c82-86ee-a2db66840757.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221482913-221273b3-0532-4d51-8a2f-83784c115bb0.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221482953-d1d06ffd-02e8-48e5-bf81-1509fe9e0bbd.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221482972-e649d953-1f2a-4ed7-89ec-46658dfc6d18.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221483007-64ce030f-e53a-4494-96c9-26ac607cfd4a.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221483087-e0828f82-5df4-460d-a8ac-05552ace0a61.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221483355-31150ee0-17d4-463f-bf1d-ec4e4220b2c4.png)
+
+SECCIÓN 18–3 Filtros pasabanda
+
+![image](https://user-images.githubusercontent.com/117920423/221483206-de79ce11-11a1-4e8b-b0a3-d57aa05cfec6.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221483249-f96efd6c-b777-4031-9dde-394a51cfd209.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221483414-a88dc1c5-352c-4b38-9e77-8a4f0e9fb7bd.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221483445-c00f6fe1-b2fa-4a9e-8122-9a9a8fec44c1.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221483464-00df2d3e-ae56-4192-a378-7af3412b2520.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221483480-53d7de40-8b75-4628-9862-ef3746cf4950.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221483536-35fc8337-ad00-498a-968f-1d9df6d41709.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221483576-df6b3ddc-729a-4db7-af9e-2dcd5d28b162.png)
+
 
 
 
