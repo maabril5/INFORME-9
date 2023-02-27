@@ -33,6 +33,15 @@ SECCIÓN 17–1 Impedancia de circuitos RLC en serie
 
 ![image](https://user-images.githubusercontent.com/117920423/221473742-5089f733-bc7a-4325-bd86-05fd91e2ffc0.png)
 
+SECCIÓN 17–2 Análisis de circuitos RLC en serie
+
+![image](https://user-images.githubusercontent.com/117920423/221474274-416a0f0b-d9bd-4a6a-97d4-c55b0d4d8a70.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221474298-d7afdc35-116d-4bae-ab1a-14ff1b49f362.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221475012-56b1801e-73c7-462f-b0e5-14c5a6898956.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221475036-95f96257-1736-454a-8f65-a2f4de1ff787.png)
 
 
 
