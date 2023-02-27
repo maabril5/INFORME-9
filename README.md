@@ -79,8 +79,49 @@ SECCIÓN 17–4 Impedancia de circuitos RLC en paralelo
 
 ![image](https://user-images.githubusercontent.com/117920423/221477450-9deee3fc-15cc-4ad9-92e7-768bc17853c1.png)
 
+SECCIÓN 17–5 Análisis de circuitos RLC en paralelo
 
+![image](https://user-images.githubusercontent.com/117920423/221478150-44f502f9-3e24-4735-95ad-b7f93c3d9cbc.png)
 
+![image](https://user-images.githubusercontent.com/117920423/221478170-97101307-15da-4956-86a4-d267ae70becb.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221478419-7a82f8b0-f75d-4be1-8a74-85e8bdff863d.png)
+
+SECCIÓN 17–6 Resonancia en paralelo
+
+![image](https://user-images.githubusercontent.com/117920423/221478479-6e32782f-6d91-4471-8c95-7a816c78ac21.png)
+
+Zr es inmensamente grande.
+
+![image](https://user-images.githubusercontent.com/117920423/221478919-b612aeae-fcb2-4d29-953d-eef26898015c.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221478937-bb6438a5-7e25-480d-baef-5702487d26e6.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221479122-cfc06e0d-4e52-4101-913d-09791065dd73.png)
+
+SECCIÓN 17–7 ANÁLISIS DE CIRCUITOS RLC EN SERIE-PARALELO
+
+![image](https://user-images.githubusercontent.com/117920423/221479313-3278b7ad-cb1a-483f-9ce7-a7dc1e599a58.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221479700-b439f015-665c-4483-a4c7-8fba283e56df.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221479873-c90edd66-e99e-4c85-851f-5b43036662d9.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221479907-460e8c44-a3e2-4bb3-a695-18a32704675d.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221479984-a184c335-ebd3-468e-965e-e760195f9bff.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221480023-8e213cca-c3e6-4dec-a7f4-11338eb8b0fd.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221480098-7a8cd213-f005-416c-9854-5729fd7a1fd0.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221480164-8b4e9cf3-5652-4024-9f5a-6c3597376aaa.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221480193-267eea6b-f640-4f3f-9277-ffdce550fd7e.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221480215-56795c20-9b16-40ec-902e-bac7de7755d0.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221480685-18eb5414-8a0f-4a3c-8777-456b5db13eb8.png)
 
 
 
