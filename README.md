@@ -61,6 +61,12 @@ XC < XL fr, es menor que la frecuencia indicada.
 
 ![image](https://user-images.githubusercontent.com/117920423/221476585-fb1684a1-ed01-459c-8338-a4438de8ac4d.png)
 
+![image](https://user-images.githubusercontent.com/117920423/221476933-ee1017f2-444b-4b86-bb50-631be28f396a.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221476961-ca7224b2-0e99-49cb-b170-1300de15c804.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221477069-519b91bc-8cb3-41a4-9211-9889d44322f2.png)
+
 
 
 
