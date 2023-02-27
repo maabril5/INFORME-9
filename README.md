@@ -67,6 +67,18 @@ XC < XL fr, es menor que la frecuencia indicada.
 
 ![image](https://user-images.githubusercontent.com/117920423/221477069-519b91bc-8cb3-41a4-9211-9889d44322f2.png)
 
+SECCIÓN 17–4 Impedancia de circuitos RLC en paralelo
+
+![image](https://user-images.githubusercontent.com/117920423/221477237-cc9a7461-a44a-4a1f-b909-4f92ead6a0a7.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221477276-ccdc90b7-bcde-4518-9731-5c6ef1f8ac8e.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221477392-e15b0440-dfc4-41c1-8e33-bdee999be199.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221477424-46eb9786-766b-4b94-8c9c-bf9cfcfbfe98.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221477450-9deee3fc-15cc-4ad9-92e7-768bc17853c1.png)
+
 
 
 
